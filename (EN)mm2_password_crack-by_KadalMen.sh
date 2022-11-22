@@ -142,3 +142,4 @@ echo -n "Password : "
 hitungTank
 mulaiHitung
 echo " "
+echo "Counting is done! Now you can use the code in Megaman 2's Password Screen"
